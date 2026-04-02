@@ -7,31 +7,44 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+This page provides a structured overview of all content available on this website. For search engine crawlers, an [XML version]({{ base_path }}/sitemap.xml) is also available.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
+<div class="archive__subtitle">Pages & Posts</div>
+
+{% for page in site.pages %}
+  {% if page.title %}
+    {% include archive-single.html post=page %}
+  {% endif %}
 {% endfor %}
 
-<h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
+<hr>
 
 {% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+  {% unless collection.output == false or collection.label == "posts" or collection.label == "data" %}
+    
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    
+    <h2>
+      {% if label == "publications" %}
+        Selected Publications
+      {% elif label == "talks" %}
+        Talks & Presentations
+      {% elif label == "teaching" %}
+        Teaching Experience
+      {% elif label == "portfolio" %}
+        Projects & Portfolio
+      {% else %}
+        {{ label | capitalize }}
+      {% endif %}
+    </h2>
+
+    {% for post in collection.docs %}
+      {% include archive-single.html %}
+    {% endfor %}
+    
   {% endunless %}
-{% endfor %}
 {% endfor %}
