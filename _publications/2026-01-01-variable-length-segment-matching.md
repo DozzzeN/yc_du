@@ -7,7 +7,7 @@ excerpt: 'This paper addresses the trade-off between key generation rate and acc
 date: 2026-01-01
 venue: 'IEEE Transactions on Mobile Computing (TMC)'
 paperurl: 'https://ieeexplore.ieee.org/journal/tmc'
-citation: 'Yicong Du, Huan Dai, Yuchen Su, Haitao Jia, Shuai Li, Yanzhi Ren, Hongbo Liu. Physical Layer Secret Key Generation Leveraging Variable-length Segment Matching in Wireless Networks[J]. IEEE Transactions on Mobile Computing, 2026. (Early Access).'
+citation: 'Yicong Du, Huan Dai, Yuchen Su, Haitao Jia, Shuai Li, Yanzhi Ren, Hongbo Liu. Physical Layer Secret Key Generation Leveraging Variable-length Segment Matching in Wireless Networks. IEEE Transactions on Mobile Computing, 2026. (Early Access).'
 ---
 
 ### Contributions & Highlights
