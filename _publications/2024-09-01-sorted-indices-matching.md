@@ -7,7 +7,7 @@ excerpt: 'Introduces SIM-SKG, a novel paradigm utilizing sorted indices of chann
 date: 2024-09-01
 venue: 'IEEE Transactions on Mobile Computing (TMC)'
 paperurl: 'https://ieeexplore.ieee.org/document/10413550'
-citation: 'Yicong Du, Huan Dai, Hongbo Liu, Guyue Li, Yanzhi Ren, Ke Zhang. Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching[J]. IEEE Transactions on Mobile Computing, 2024.'
+citation: 'Yicong Du, Huan Dai, Hongbo Liu, Guyue Li, Yanzhi Ren, Ke Zhang. Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching[J]. IEEE Transactions on Mobile Computing, 2024, 24(2): 779-793.'
 ---
 
 ### Contributions & Highlights
