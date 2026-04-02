@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Electronic Information**  
-  University Of Electronic Science And Technology Of China, 2021.09 – 2025.12
+  University of Electronic Science and Technology of China, 2021.09 – 2025.12
   Advisor: Prof. Hongbo Liu  
   Research Group: Internet Security Team  
 
@@ -21,12 +21,12 @@ Education
   Advisor: Prof. Shuai Li  
 
 * **M.S. in Cyberspace Security**  
-  University Of Electronic Science And Technology Of China, 2018.09 – 2021.06  
+  University of Electronic Science and Technology of China, 2018.09 – 2021.06  
   GPA: 3.67/4.00  
   Advisor: Prof. Chunxiang Xu  
 
 * **B.S. in Information Security**  
-  University Of Electronic Science And Technology Of China, 2014.09 – 2018.06  
+  University of Electronic Science and Technology of China, 2014.09 – 2018.06  
   GPA: 3.27/4.00
 
 
