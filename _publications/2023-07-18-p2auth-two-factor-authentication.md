@@ -7,7 +7,7 @@ excerpt: "Presents a lightweight 2FA scheme that integrates PIN entry with keyst
 date: 2023-07-18
 venue: "IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)"
 paperurl: "https://ieeexplore.ieee.org/document/10272531"
-citation: "Yuchen Su, Guoqing Jiang, Yicong Du, Yuefeng Chen, Hongbo Liu, Yanzhi Ren, Huan Dai, Yan Wang, Shuai Li, Yingying Chen. P2Auth: Two-Factor Authentication Leveraging PIN and Keystroke-Induced PPG Measurements. IEEE International Conference on Distributed Computing Systems (IEEE ICDCS), 2023: 726-737."
+citation: "Yuchen Su, Guoqing Jiang, Yicong Du, Yuefeng Chen, Hongbo Liu, Yanzhi Ren, Huan Dai, Yan Wang, Shuai Li, Yingying Chen. P2Auth: Two-Factor Authentication Leveraging PIN and Keystroke-Induced PPG Measurements. IEEE International Conference on Distributed Computing Systems (ICDCS), 2023: 726-737."
 ---
 ### Contributions & Highlights
 * **Multimodal 2FA Framework:** Developed **P2Auth**, a lightweight and unobtrusive two-factor authentication scheme that augments traditional PIN entry with physiological keystroke dynamics captured via wearable **Photoplethysmography (PPG)** sensors.
