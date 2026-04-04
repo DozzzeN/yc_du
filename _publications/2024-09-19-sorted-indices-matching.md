@@ -6,6 +6,7 @@ permalink: /publication/2024-09-19-sorted-indices-matching
 excerpt: "Introduces SIM-SKG, a novel paradigm utilizing sorted indices of channel measurements to achieve error-free key agreement."
 date: 2024-09-19
 venue: "IEEE Transactions on Mobile Computing (TMC)"
+doi: "10.1109/TMC.2024.3465042"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10684508"
 citation: "Yicong Du, Huan Dai, Hongbo Liu, Guyue Li, Yanzhi Ren, Ke Zhang. Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching. IEEE Transactions on Mobile Computing. 2024, 24(2): 779-793."
 ---
