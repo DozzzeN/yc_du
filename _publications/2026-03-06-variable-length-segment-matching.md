@@ -2,12 +2,12 @@
 title: "Physical Layer Secret Key Generation Leveraging Variable-length Segment Matching in Wireless Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-01-variable-length-segment-matching
+permalink: /publication/2026-03-06-variable-length-segment-matching
 excerpt: "This paper addresses the trade-off between key generation rate and accuracy by introducing an adaptive variable-length segment matching framework."
-date: 2026-01-01
+date: 2026-03-06
 venue: "IEEE Transactions on Mobile Computing (TMC)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/11423894"
-citation: "Yicong Du, Huan Dai, Yuchen Su, Haitao Jia, Shuai Li, Yanzhi Ren, Hongbo Liu. (2026). Physical Layer Secret Key Generation Leveraging Variable-length Segment Matching in Wireless Networks. IEEE Transactions on Mobile Computing. (Early Access)."
+citation: "Yicong Du, Huan Dai, Yuchen Su, Haitao Jia, Shuai Li, Yanzhi Ren, Hongbo Liu. Physical Layer Secret Key Generation Leveraging Variable-length Segment Matching in Wireless Networks. IEEE Transactions on Mobile Computing. 2026, (Early Access)."
 ---
 ### Contributions & Highlights
 * **Adaptive Segmentation:** Addressed the critical trade-off between key generation rate (KGR) and accuracy caused by fixed-length segmentation in traditional matching-based methods.
