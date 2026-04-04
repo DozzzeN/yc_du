@@ -6,6 +6,7 @@ permalink: /publication/2023-11-03-multi-view-human-perception-wifi
 excerpt: "Introduces a dual-view WiFi-based human perception system that resolves body ambiguity in multi-person scenarios using deep learning and anomaly detection."
 date: 2023-11-03
 venue: "International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE)"
+doi: "10.1109/CBASE60015.2023.10439111"
 paperurl: "https://ieeexplore.ieee.org/document/10439111"
 citation: "Chunchao Zhang, Minglu Zhang, Yicong Du, Hongbo Liu. Multi-View Human Perception with WiFi. International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE). 2023: 190-195."
 ---
