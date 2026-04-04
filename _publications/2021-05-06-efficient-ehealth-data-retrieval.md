@@ -6,6 +6,7 @@ permalink: /publication/2021-05-06-efficient-ehealth-data-retrieval
 excerpt: "Develops a triple dictionary index and oblivious key generation mechanism to enable secure, multi-keyword search over encrypted EHR databases."
 date: 2021-05-06
 venue: "IEEE Systems Journal"
+doi: "10.1109/JSYST.2021.3073169"
 paperurl: "https://ieeexplore.ieee.org/document/9425019"
 citation: "Shanshan Li, Chunxiang Xu, Yuan Zhang, Yicong Du, Xinsheng Wen, Kefei Chen, Jianfeng Ma. Efficient Data Retrieval over Encrypted Attribute-Value Type Databases in Cloud-Assisted eHealth Systems. IEEE Systems Journal. 2021: 16(2), 3096-3107."
 ---
