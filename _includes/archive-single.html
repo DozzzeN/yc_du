@@ -42,15 +42,10 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
-          {% if post.doi %}
-            <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-              <div class='altmetric-embed' 
-                   data-badge-type='donut' 
-                   data-doi="{{ post.doi }}">
-              </div>
-            </span>
-          {% endif %}
-          </p>
+          <span class="__dimensions_badge_embed__" 
+                data-doi="{{ post.doi }}" 
+                data-style="small_rectangle">
+          </span>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
