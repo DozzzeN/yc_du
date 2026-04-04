@@ -6,6 +6,7 @@ permalink: /publication/2024-11-09-armspy-plus-enhanced-pin-inference
 excerpt: "An enhanced video-assisted PIN inference attack that leverages fine-grained arm joint dynamics and typing habits to overcome hand-occlusion limitations."
 date: 2024-11-09
 venue: "ACM Transactions on Privacy and Security (TOPS)"
+doi: "10.1145/3696418"
 paperurl: "https://dl.acm.org/doi/10.1145/3696418"
 citation: "Huan Dai, Yuefeng Chen, Yicong Du, Luping Wang, Ziyu Shao, Hongbo Liu, Yanzhi Ren, Jiadi Yu, Bo Liu. ArmSpy++: Enhanced PIN Inference through Video-based Fine-grained Arm Posture Analysis. ACM Transactions on Privacy and Security. 2024, 28(1): 1-26."
 ---
