@@ -31,11 +31,11 @@ This page provides a structured overview of all content available on this websit
     <h2>
       {% if label == "publications" %}
         Selected Publications
-      {% elif label == "talks" %}
+      {% elsif label == "talks" %}
         Talks & Presentations
-      {% elif label == "teaching" %}
+      {% elsif label == "teaching" %}
         Teaching Experience
-      {% elif label == "portfolio" %}
+      {% elsif label == "portfolio" %}
         Projects & Portfolio
       {% else %}
         {{ label | capitalize }}
