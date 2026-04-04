@@ -6,6 +6,7 @@ permalink: /publication/2023-01-10-improved-least-square-jammer-localization
 excerpt: "Proposes an improved least-square localization method that leverages stochastic geometry to analyze network distribution for high-precision jammer localization."
 date: 2023-01-10
 venue: "IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS)"
+doi: "10.1109/ICPADS56603.2022.00041"
 paperurl: "https://ieeexplore.ieee.org/document/10077943"
 citation: "Ruiqiong Tong, Yicong Du, Hongbo Liu, Yingying Chen. An Improved Least-square based Jammer Localization Algorithm. IEEE International Conference on Parallel and Distributed Systems (ICPADS). 2023: 258-265."
 ---
