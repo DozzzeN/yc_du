@@ -6,6 +6,7 @@ permalink: /publication/2022-05-02-armspy-pin-inference
 excerpt: "Uncovers a stealthy side-channel threat where PINs are inferred from arm posture changes captured via video, even under hand occlusion."
 date: 2022-05-02
 venue: "IEEE Conference on Computer Communications (IEEE INFOCOM)"
+doi: "10.1109/INFOCOM48880.2022.9796738"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9796738"
 citation: "Yuefeng Chen, Yicong Du, Chunlong Xu, Yanghai Yu, Hongbo Liu, Huan Dai, Yanzhi Ren, Jiadi Yu. ArmSpy: Video-assisted PIN Inference Leveraging Keystroke-induced Arm Posture Changes. IEEE Conference on Computer Communications (INFOCOM). 2022: 1878-1887."
 ---
