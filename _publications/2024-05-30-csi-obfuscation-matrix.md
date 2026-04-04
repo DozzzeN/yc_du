@@ -6,6 +6,7 @@ permalink: /publication/2024-05-30-csi-obfuscation-matrix
 excerpt: "Tackles channel non-reciprocity by utilizing channel measurements as a secure carrier for pre-shared keys."
 date: 2024-05-30
 venue: "IEEE Transactions on Mobile Computing (TMC)"
+doi: "10.1109/TMC.2024.3407062"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10542368"
 citation: "Yicong Du, Hongbo Liu, Ziyu Shao, Yanzhi Ren, Shuai Li, Huan Dai, Jiadi Yu. Secure and Controllable Secret Key Generation through CSI Obfuscation Matrix Encapsulation. IEEE Transactions on Mobile Computing. 2024, 23(12): 12313-12329."
 ---
