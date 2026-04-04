@@ -6,6 +6,7 @@ permalink: /publication/2021-10-20-blockchain-physical-products-trading
 excerpt: "Proposes PBOT, a decentralized transaction system for physical products that addresses the risks of untrusted logistics entities while ensuring trade fairness and privacy."
 date: 2021-10-20
 venue: "IEEE International Conference on Smart City and Informatization (iSCI)"
+doi: "10.1109/iSCI53438.2021.00012"
 paperurl: "https://ieeexplore.ieee.org/document/9724589"
 citation: "Yicong Du, Chunxiang Xu, Yuan Zhang. A Blockchain-Based Online Transaction System for Physical Products Trading with Fairness, Privacy Preservation, and Auditability. IEEE International Conference on Smart City and Informatization (iSCI). 2021: 15-22."
 ---
