@@ -6,6 +6,7 @@ permalink: /publication/2022-01-21-blockchain-integrity-deduplication
 excerpt: "Proposes a blockchain-enabled scheme for secure deduplication and transparent integrity auditing in cloud environments."
 date: 2022-01-21
 venue: "IEEE Transactions on Services Computing (TSC)"
+doi: " 10.1109/TSC.2022.3144430"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9690028"
 citation: "Shanshan Li, Chunxiang Xu, Yuan Zhang, Yicong Du, Kefei Chen. Blockchain-based Transparent Integrity Auditing and Encrypted Deduplication for Cloud Storage. IEEE Transactions on Services Computing. 2022, 16(1): 134-146."
 ---
