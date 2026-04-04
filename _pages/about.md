@@ -72,4 +72,4 @@ My research focuses on **Physical Layer Security** and **Wireless Secret Key Gen
 
 ## Visitors
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=GTyccLEFM2mZW1U9uua2EB-o34ZCYIUEU8qsk2uupk0"></script>
+<a href="https://mapmyvisitors.com/web/1c3of"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=7qyA7X_wMHzBzWOUCfMFBAES6k1RcIhLhHC0gCx__FE&cl=ffffff" /></a>
