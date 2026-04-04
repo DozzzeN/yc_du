@@ -7,7 +7,7 @@ excerpt: "An enhanced video-assisted PIN inference attack that leverages fine-gr
 date: 2024-11-09
 venue: "ACM Transactions on Privacy and Security (TOPS)"
 paperurl: "https://dl.acm.org/doi/10.1145/3696418"
-citation: "Huan Dai, Yuefeng Chen, Yicong Du, Luping Wang, Ziyu Shao, Hongbo Liu, Yanzhi Ren, Jiadi Yu, Bo Liu. ArmSpy++: Enhanced PIN Inference through Video-based Fine-grained Arm Posture Analysis. ACM Transactions on Privacy and Security, 2024, 28(1): 1-26."
+citation: "Huan Dai, Yuefeng Chen, Yicong Du, Luping Wang, Ziyu Shao, Hongbo Liu, Yanzhi Ren, Jiadi Yu, Bo Liu. ArmSpy++: Enhanced PIN Inference through Video-based Fine-grained Arm Posture Analysis. ACM Transactions on Privacy and Security. 2024, 28(1): 1-26."
 ---
 ### Contributions & Highlights
 * **Fine-grained Feature Fusion:** Developed **ArmSpy++**, an advanced inference attack that significantly improves keystroke detection by fusing multi-dimensional features, including **keystroke-induced elbow bending**, **wrist speed variations**, and complex spatial relationships between arm joints.
