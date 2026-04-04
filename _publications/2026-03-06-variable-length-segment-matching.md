@@ -6,6 +6,7 @@ permalink: /publication/2026-03-06-variable-length-segment-matching
 excerpt: "This paper addresses the trade-off between key generation rate and accuracy by introducing an adaptive variable-length segment matching framework."
 date: 2026-03-06
 venue: "IEEE Transactions on Mobile Computing (TMC)"
+doi: "10.1109/TMC.2026.3670938"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/11423894"
 citation: "Yicong Du, Huan Dai, Yuchen Su, Haitao Jia, Shuai Li, Yanzhi Ren, Hongbo Liu. Physical Layer Secret Key Generation Leveraging Variable-length Segment Matching in Wireless Networks. IEEE Transactions on Mobile Computing. 2026, (Early Access)."
 ---
