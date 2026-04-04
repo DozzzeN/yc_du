@@ -6,6 +6,7 @@ permalink: /publication/2023-07-18-p2auth-two-factor-authentication
 excerpt: "Presents a lightweight 2FA scheme that integrates PIN entry with keystroke-induced PPG signals from wearables to enhance mobile security."
 date: 2023-07-18
 venue: "IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)"
+doi: "10.1109/ICDCS57875.2023.00074"
 paperurl: "https://ieeexplore.ieee.org/document/10272531"
 citation: "Yuchen Su, Guoqing Jiang, Yicong Du, Yuefeng Chen, Hongbo Liu, Yanzhi Ren, Huan Dai, Yan Wang, Shuai Li, Yingying Chen. P2Auth: Two-Factor Authentication Leveraging PIN and Keystroke-Induced PPG Measurements. IEEE International Conference on Distributed Computing Systems (ICDCS). 2023: 726-737."
 ---
