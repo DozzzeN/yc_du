@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-12-02-oismic-acoustic-eavesdropping
 excerpt: "Discovers a zero-permission eavesdropping vulnerability by capturing electromagnetic leakage from sound-induced vibrations in smartphone OIS components."
 date: 2024-12-02
-venue: "Academic Journal/Conference"
+venue: "IEEE International Conference on Sensing, Communication, and Networking (IEEE SECON)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10934876/"
 citation: "Ziyu Shao, Yuchen Su, Yicong Du, Shiyue Huang, Tingyuan Yang, Hongbo Liu, Yanzhi Ren, Bo Liu, Huan Dai, Shuai Li. OISMic: Acoustic Eavesdropping Exploiting Sound-induced OIS Vibrations in Smartphones. IEEE International Conference on Sensing, Communication, and Networking (SECON). IEEE, 2024: 1-9."
 ---
