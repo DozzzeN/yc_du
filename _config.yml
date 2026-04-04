@@ -27,7 +27,7 @@ author:
   pronouns         : 
   bio              : "Lecturer with the Southwest Petroleum University. Research in physical layer security and secret key generation in wireless networks."
   location         : "Chengdu, China"
-  employer         : "Southwest Petroleum University (SWPU)"
+  employer         : "Southwest Petroleum Univ."
   uri              : # URL
   email            : "yc_du@swpu.edu.cn"
 
@@ -35,10 +35,11 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=yS9CrzUAAAAJ&hl=zh-CN&oi=ao"
+  dblp             : "https://dblp.org/pid/189/9854.html"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5105-4648"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Yicong-Du/2152976631"
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Yicong-Du-2"
