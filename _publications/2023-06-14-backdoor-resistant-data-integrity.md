@@ -6,6 +6,7 @@ permalink: /publication/2023-06-14-backdoor-resistant-data-integrity
 excerpt: "Proposes ASSIST, a smart contract-based integrity verification scheme that resists hardware backdoors and optimizes storage via encrypted deduplication."
 date: 2023-06-14
 venue: "IEEE Internet of Things Journal"
+doi: "10.1109/JIOT.2023.3285939"
 paperurl: "https://ieeexplore.ieee.org/document/10153425"
 citation: "Shanshan Li, Chunxiang Xu, Yuan Zhang, Yicong Du, Anjia Yang, Xinsheng Wen, Kefei Chen. Backdoor-Resistant Public Data Integrity Verification Scheme Based on Smart Contracts. IEEE Internet of Things Journal. 2023: 10(16), 14269-14284."
 ---
