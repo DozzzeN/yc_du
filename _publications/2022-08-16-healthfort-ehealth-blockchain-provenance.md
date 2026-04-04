@@ -6,6 +6,7 @@ permalink: /publication/2022-08-16-healthfort-ehealth-blockchain-provenance
 excerpt: "Proposes HealthFort, a cloud-based eHealth system featuring a password-based encryption mechanism for conditional forward transparency and a blockchain-based EHR provenance framework."
 date: 2022-08-16
 venue: "IEEE Transactions on Mobile Computing (TMC)"
+doi: "10.1109/TMC.2022.3199048"
 paperurl: "https://ieeexplore.ieee.org/document/9858023"
 citation: "Shiyu Li, Yuan Zhang, Chunxiang Xu, Nan Cheng, Zhi Liu, Yicong Du, Xuemin Shen. HealthFort: A Cloud-Based eHealth System with Conditional Forward Transparency and Secure Provenance via Blockchain. IEEE Transactions on Mobile Computing. 2022: 22(11), 6508-6525."
 ---
