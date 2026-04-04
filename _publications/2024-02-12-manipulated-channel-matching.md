@@ -6,6 +6,7 @@ permalink: /publication/2024-02-12-manipulated-channel-matching
 excerpt: "Introduces a matching-based key generation framework using bipartite graph matching and edit-sequence alignment to resolve quantization inconsistencies."
 date: 2024-02-12
 venue: "IEEE Transactions on Mobile Computing (TMC)"
+doi: "10.1109/TMC.2024.3364909"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10432986"
 citation: "Yicong Du, Huan Dai, Hongbo Liu, Yan Wang, Guyue Li, Yanzhi Ren, Yingying Chen, Ke Zhang. Secret Key Generation Based on Manipulated Channel Measurement Matching. IEEE Transactions on Mobile Computing, 2024, 23(10): 9532-9548."
 ---
