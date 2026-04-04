@@ -6,6 +6,7 @@ permalink: /publication/2024-07-23-proactive-pilot-contamination-skg
 excerpt: "Proposes a proactive pilot contamination strategy to adaptively shape channel responses, significantly improving quantization consistency in secret key generation."
 date: 2024-07-23
 venue: "IEEE International Conference on Distributed Computing Systems (IEEE ICDCS)"
+doi: "10.1109/ICDCS60910.2024.00120"
 paperurl: "https://ieeexplore.ieee.org/document/10631067"
 citation: "Limin Liu, Hongbo Liu, Yicong Du, Ziyu Shao, Haomiao Yang, Yanzhi Ren. Physical Layer Secret Key Generation Leveraging Proactive Pilot Contamination. IEEE International Conference on Distributed Computing Systems (ICDCS). 2024: 1272-1282."
 ---
