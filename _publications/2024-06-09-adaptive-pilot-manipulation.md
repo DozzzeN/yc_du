@@ -6,6 +6,7 @@ permalink: /publication/2024-06-09-adaptive-pilot-manipulation
 excerpt: "Proposes an adaptive pilot manipulation strategy to actively shape desired channel measurement patterns."
 date: 2024-06-09
 venue: "IEEE International Conference on Communications (IEEE ICC)"
+doi: "10.1109/ICC51166.2024.10622605"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10622605"
 citation: "Yicong Du, Limin Liu, Hongbo Liu, Yanzhi Ren, Bo Liu. Secret Key Generation with Adaptive Pilot Manipulation for Matching-based Method. IEEE International Conference on Communications (ICC). 2024: 2688-2693."
 ---
